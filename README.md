@@ -20,6 +20,39 @@
 
 ## Tech Stack
 
+<p align="center">  
+  <img class="img" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" height="40"/>
+</p>
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" height="40"/>
+</p>
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/TypeORM-F39C12?style=flat&logo=TypeOrm&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=Mongoose&logoColor=white" height="40"/>
+</p>
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" height="40"/>
+</p>
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat&logo=Amazon&logoColor=white" height="40"/>
+</p>
+
 - NodeJS, Typescript
 - NestJS, Express, Jest
 - TypeORM, Prisma, Mongoose
