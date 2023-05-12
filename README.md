@@ -43,7 +43,7 @@
 
 <div style="display: flex">
 
-  <img style="object-fit:cover; margin-right:20px"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrgks6221&layout=compact&theme=github_dark&hide=CSS,HTML,EJS" />
-  <img style="object-fit:cover"  height="200px" src="https://github-readme-stats.vercel.app/api?username=rrgks6221&show_icons=true&theme=github_dark" />
+  <img style="object-fit:cover; margin-right:20px"  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrgks6221&layout=compact&theme=github_dark&hide=CSS,HTML,EJS" />
+  <img style="object-fit:cover"  height="180px" src="https://github-readme-stats.vercel.app/api?username=rrgks6221&show_icons=true&theme=github_dark" />
 
 </div>
