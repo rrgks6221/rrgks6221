@@ -9,6 +9,19 @@
 </div>
 
 <br>
+
+## Career
+
+---
+
+| Date          | Organization | Job              | Team    |
+| :------------ | :----------- | :--------------- | :------ |
+| 2022.05 ~ ing | Bejewel      | Backend Engineer | Backend |
+
+<br>
+
+## Tech
+
 <br>
 
 <div style="display: flex">
