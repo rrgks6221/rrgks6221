@@ -12,9 +12,9 @@
 
 ## Career
 
-| Date          | Organization | Job              | Team    |
-| :------------ | :----------- | :--------------- | :------ |
-| 2022.05 ~ ing | Bejewel      | Backend Engineer | Backend |
+| Date              | Organization | Job              | Team    |
+| :---------------- | :----------- | :--------------- | :------ |
+| 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend |
 
 <br>
 
