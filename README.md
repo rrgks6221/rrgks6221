@@ -32,10 +32,10 @@
 
 | Date              | Project                                  | Job              | Team                                                                          |
 | :---------------- | :--------------------------------------- | :--------------- | :---------------------------------------------------------------------------- |
-| 2022.09 ~ 2023.05 | 개발자, 디자이너 교육 및 커뮤니티 플렛폼 | Backend Engineer | [The Pool](https://github.com/thepool/the-pool-api)                           |
+| 2022.09 ~ 2023.05 | 개발자, 디자이너 교육 및 커뮤니티 플렛폼 | Backend Engineer | [The Pool](https://github.com/the-pool/the-pool-api)                          |
 | 2022.05 ~ 2022.08 | 2.5D 모니터링 그래프 오픈소스            | Backend Engineer | [Grass Farm](https://github.com/team-grass-farm/uncloudy-prometheus-exporter) |
 | 2022.03 ~ 2022.06 | 꿈 해몽 ios 어플리케이션                 | Backend Engineer | [Depromeet](https://github.com/depromeet/Mongsil-Server)                      |
-| 2022.05 ~ 2022.01 | 교내 동아리 플랫폼                       | Backend Read     | [Modern Agile](https://github.com/modern-agile-team/dongurami)                |
+| 2022.05 ~ 2022.01 | 교내 동아리 플랫폼                       | Backend Read     | [Modern Agile](https://github.com/modern-agile-team/dongurami-server)         |
 
 <br>
 
