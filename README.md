@@ -8,9 +8,6 @@
   </a>
 </div>
 
-
-
-
 <br>
 
 ## Career
