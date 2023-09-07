@@ -20,7 +20,7 @@
 
 ## Tech Stack
 
-- NodeJS, Typescript
+- NodeJS, Typescript, Terraform
 - NestJS, Express, Jest
 - TypeORM, Prisma, Mongoose
 - MySQL, PostgreSQL, ElasticSearch, MongoDB, Redis
