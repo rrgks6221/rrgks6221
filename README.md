@@ -41,9 +41,9 @@
 
 ## Study
 
-| Date     | Name                | Link                                                                 |
-| -------- | ------------------- | -------------------------------------------------------------------- |
-| 2023-08~ | modern-js-deep-dive | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study) |
+| Date     | Name                | Description                                             | Link                                                                 |
+| -------- | ------------------- | ------------------------------------------------------- | -------------------------------------------------------------------- |
+| 2023-08~ | Modern JS Deep Dive | [Book](https://m.yes24.com/Goods/Detail/92742567) Study | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study) |
 
 <br>
 
