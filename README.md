@@ -8,10 +8,7 @@
   </a>
 </div>
 
-
 <br>
-
-
 
 ## Career
 
@@ -31,7 +28,7 @@
 
 <br>
 
-## Personal Team
+## Project
 
 | Date              | Project                                  | Job              | Team                                                                          |
 | :---------------- | :--------------------------------------- | :--------------- | :---------------------------------------------------------------------------- |
@@ -39,6 +36,14 @@
 | 2022.05 ~ 2022.08 | 2.5D 모니터링 그래프 오픈소스            | Backend Engineer | [Grass Farm](https://github.com/team-grass-farm/uncloudy-prometheus-exporter) |
 | 2022.03 ~ 2022.06 | 꿈 해몽 ios 어플리케이션                 | Backend Engineer | [Depromeet](https://github.com/depromeet/Mongsil-Server)                      |
 | 2022.05 ~ 2022.01 | 교내 동아리 플랫폼                       | Backend Read     | [Modern Agile](https://github.com/modern-agile-team/dongurami-server)         |
+
+<br>
+
+## Study
+
+| Date     | Name                | Link                                                                 |
+| -------- | ------------------- | -------------------------------------------------------------------- |
+| 2023-08~ | modern-js-deep-dive | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study) |
 
 <br>
 
