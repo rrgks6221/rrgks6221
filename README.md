@@ -10,16 +10,12 @@ NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔�
 요구사항에 맞는 유즈케이스 설계, 서비스 간 흐름 구성에 관심이 많습니다.  
 “현재 필요한 기술”을 판단하고 적용하는 걸 좋아합니다.
 
-<br>
-
 ## Career
 
 | Date              | Organization | Role             | Team         |
 | :---------------- | :----------- | :--------------- | :----------- |
 | 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend      |
 | 2023.12 ~ ing     | Classting    | Backend Engineer | Service Core |
-
-<br>
 
 ## Project
 
@@ -31,8 +27,6 @@ NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔�
 | 2022.05 ~ 2022.08 | 2.5D 모니터링 그래프 오픈소스            | Backend Engineer | [Uncloudy Prometheus Exporter](https://github.com/team-grass-farm/uncloudy-prometheus-exporter) |
 | 2022.03 ~ 2022.06 | 꿈 해몽 ios 어플리케이션                 | Backend Engineer | [Mongsil Backend](https://github.com/depromeet/Mongsil-Server)                                  |
 | 2022.05 ~ 2022.01 | 교내 동아리 플랫폼                       | Backend Lead     | [Dongurami Backend](https://github.com/modern-agile-team/dongurami-server)                      |
-
-<br>
 
 ## Study
 
