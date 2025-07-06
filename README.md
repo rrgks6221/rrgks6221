@@ -1,52 +1,44 @@
 <div style="display: flex">
-  <a href="https://github.com/rrgks6221">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frrgks6221&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hit&edge_flat=false)"/>
-  </a>
 
   <a href="https://github.com/rrgks6221" style="margin-left: 10px">
     <img src="https://img.shields.io/github/followers/rrgks6221?style=social&)"/>
   </a>
 </div>
 
-
+안녕하세요 :)
+NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔드 개발자 이석호입니다.  
+요구사항에 맞는 유즈케이스 설계, 서비스 간 흐름 구성에 관심이 많습니다.  
+“현재 필요한 기술”을 판단하고 적용하는 걸 좋아합니다.
 
 <br>
-
 
 ## Career
 
-| Date              | Organization | Job              | Team    |
-| :---------------- | :----------- | :--------------- | :------ |
-| 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend |
-
-<br>
-
-## Tech Stack
-
-- NodeJS, Typescript, Terraform
-- NestJS, Express, Jest
-- TypeORM, Prisma, Mongoose
-- MySQL, PostgreSQL, ElasticSearch, MongoDB, Redis
-- Git, Nginx, AWS
+| Date              | Organization | Role             | Team         |
+| :---------------- | :----------- | :--------------- | :----------- |
+| 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend      |
+| 2023.12 ~ ing     | Classting    | Backend Engineer | Service Core |
 
 <br>
 
 ## Project
 
-| Date              | Project                                  | Job              | Team                                                                          |
-| :---------------- | :--------------------------------------- | :--------------- | :---------------------------------------------------------------------------- |
-| 2022.09 ~ 2023.05 | 개발자, 디자이너 교육 및 커뮤니티 플렛폼 | Backend Engineer | [The Pool](https://github.com/the-pool/the-pool-api)                          |
-| 2022.05 ~ 2022.08 | 2.5D 모니터링 그래프 오픈소스            | Backend Engineer | [Grass Farm](https://github.com/team-grass-farm/uncloudy-prometheus-exporter) |
-| 2022.03 ~ 2022.06 | 꿈 해몽 ios 어플리케이션                 | Backend Engineer | [Depromeet](https://github.com/depromeet/Mongsil-Server)                      |
-| 2022.05 ~ 2022.01 | 교내 동아리 플랫폼                       | Backend Read     | [Modern Agile](https://github.com/modern-agile-team/dongurami-server)         |
+| Date              | Project                                  | Role             | Repository                                                                                      |
+| :---------------- | :--------------------------------------- | :--------------- | :---------------------------------------------------------------------------------------------- |
+| 2024.12 ~ 2025.05 | 사이드 프로젝트 모집 플렛폼              | Backend Engineer | [Teamup Backend](https://github.com/rrgks6221/teamup-backend)                                   |
+| 2023.11 ~ 2024.07 | 동아리 모집 플랫폼                       | Backend Lead     | [Dongurami v2 Backend](https://github.com/modern-agile-team/dongurami-server-v2)                |
+| 2022.09 ~ 2023.05 | 개발자, 디자이너 교육 및 커뮤니티 플렛폼 | Backend Engineer | [The Pool Backend](https://github.com/the-pool/the-pool-api)                                    |
+| 2022.05 ~ 2022.08 | 2.5D 모니터링 그래프 오픈소스            | Backend Engineer | [Uncloudy Prometheus Exporter](https://github.com/team-grass-farm/uncloudy-prometheus-exporter) |
+| 2022.03 ~ 2022.06 | 꿈 해몽 ios 어플리케이션                 | Backend Engineer | [Mongsil Backend](https://github.com/depromeet/Mongsil-Server)                                  |
+| 2022.05 ~ 2022.01 | 교내 동아리 플랫폼                       | Backend Lead     | [Dongurami Backend](https://github.com/modern-agile-team/dongurami-server)                      |
 
 <br>
 
 ## Study
 
-| Date     | Name                | Description                                             | Link                                                                 |
-| -------- | ------------------- | ------------------------------------------------------- | -------------------------------------------------------------------- |
-| 2023-08~ | Modern JS Deep Dive | [Book](https://m.yes24.com/Goods/Detail/92742567) Study | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study) |
+| Date              | Name                | Description                                             | Link                                                                 |
+| ----------------- | ------------------- | ------------------------------------------------------- | -------------------------------------------------------------------- |
+| 2023-08 ~ 2023-11 | Modern JS Deep Dive | [Book](https://m.yes24.com/Goods/Detail/92742567) Study | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study) |
 
 <br>
 
