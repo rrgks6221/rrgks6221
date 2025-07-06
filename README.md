@@ -1,9 +1,4 @@
-<div style="display: flex">
-
-  <a href="https://github.com/rrgks6221" style="margin-left: 10px">
-    <img src="https://img.shields.io/github/followers/rrgks6221?style=social&)"/>
-  </a>
-</div>
+## Introduce
 
 안녕하세요 :)
 NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔드 개발자 이석호입니다.  
