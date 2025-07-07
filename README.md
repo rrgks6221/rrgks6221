@@ -18,6 +18,7 @@ NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔�
 | :---------------- | :--------------------------------------- | :--------------- | :---------------------------------------------------------------------------------------------- |
 | 2024.12 ~ 2025.05 | 사이드 프로젝트 모집 플렛폼              | Backend Engineer | [Teamup Backend](https://github.com/rrgks6221/teamup-backend)                                   |
 | 2023.11 ~ 2024.07 | 동아리 모집 플랫폼                       | Backend Lead     | [Dongurami v2 Backend](https://github.com/modern-agile-team/dongurami-server-v2)                |
+| 2023.02 ~ 2023.05 | 리뷰대기 PR 리마인드 깃헙 액션           | Backend Engineer | [PR Notification Bot](https://github.com/rrgks6221/pr-notification-bot)                         |
 | 2022.09 ~ 2023.05 | 개발자, 디자이너 교육 및 커뮤니티 플렛폼 | Backend Engineer | [The Pool Backend](https://github.com/the-pool/the-pool-api)                                    |
 | 2022.05 ~ 2022.08 | 2.5D 모니터링 그래프 오픈소스            | Backend Engineer | [Uncloudy Prometheus Exporter](https://github.com/team-grass-farm/uncloudy-prometheus-exporter) |
 | 2022.03 ~ 2022.06 | 꿈 해몽 ios 어플리케이션                 | Backend Engineer | [Mongsil Backend](https://github.com/depromeet/Mongsil-Server)                                  |
