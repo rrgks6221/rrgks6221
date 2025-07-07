@@ -9,8 +9,8 @@ NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔�
 
 | Date              | Organization | Role             | Team         |
 | :---------------- | :----------- | :--------------- | :----------- |
-| 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend      |
 | 2023.12 ~ ing     | Classting    | Backend Engineer | Service Core |
+| 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend      |
 
 ## Project
 
