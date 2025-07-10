@@ -1,18 +1,18 @@
 ## Introduce
 
 안녕하세요 :)
-NestJS + TypeScript를 기반으로 실무에서 설계를 고민하는 백엔드 개발자 이석호입니다.  
+설계를 고민하는 백엔드 개발자 이석호입니다.  
 요구사항에 맞는 유즈케이스 설계, 서비스 간 흐름 구성에 관심이 많습니다.  
 “현재 필요한 기술”을 판단하고 적용하는 걸 좋아합니다.
 
 ## Career
 
-| Date              | Organization | Role             | Team         |
-| :---------------- | :----------- | :--------------- | :----------- |
-| 2023.12 ~ ing     | Classting    | Backend Engineer | Service Core |
-| 2022.05 ~ 2023.05 | Bejewel      | Backend Engineer | Backend      |
+| Date              | Corporation | Role             | Team         | Industry   |
+| :---------------- | :---------- | :--------------- | :----------- | :--------- |
+| 2023.12 ~ ing     | Classting   | Backend Engineer | Service Core | EduTech    |
+| 2022.05 ~ 2023.05 | Bejewel     | Backend Engineer | Backend      | E-Commerce |
 
-## Personal Activity
+## Personal Experience
 
 | Date              | Description                                        | Role             | Repository                                                                                      |
 | :---------------- | :------------------------------------------------- | :--------------- | :---------------------------------------------------------------------------------------------- |
