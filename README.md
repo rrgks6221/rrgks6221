@@ -20,7 +20,7 @@
 | 2025.04 ~ ing     | 모던 애자일 서포터즈1기(모던 애자일 9기 활동 지원)                          | Supporter        | [Modern Agile 9term Backend](https://github.com/modern-agile-team/9term-main-back)              |
 | 2024.12 ~ 2025.05 | 사이드 프로젝트 모집 플렛폼 개발                                            | Backend Engineer | [Teamup Backend](https://github.com/rrgks6221/teamup-backend)                                   |
 | 2023.11 ~ 2024.07 | 동아리 모집 플랫폼 개발                                                     | Backend Lead     | [Dongurami v2 Backend](https://github.com/modern-agile-team/dongurami-server-v2)                |
-| 2023-08 ~ 2023-11 | Modern JS Deep Dive [Book](https://m.yes24.com/Goods/Detail/92742567) Study | Organizer        | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study)                            |
+| 2023.08 ~ 2023.11 | Modern JS Deep Dive [Book](https://m.yes24.com/Goods/Detail/92742567) Study | Organizer        | [Github Repository](https://github.com/rrgks6221/js-deep-dive-study)                            |
 | 2023.07 ~ 2023.09 | 테라폼과 IaC공부 목적의 실습                                                | Backend Engineer | [Terraform Practice](https://github.com/rrgks6221/terraform-practice)                           |
 | 2023.02 ~ 2023.05 | 리뷰대기 PR 리마인드 깃헙 액션 개발                                         | Backend Engineer | [PR Notification Bot](https://github.com/rrgks6221/pr-notification-bot)                         |
 | 2022.09 ~ 2023.05 | 개발자, 디자이너 교육 및 커뮤니티 플렛폼 개발                               | Backend Engineer | [The Pool Backend](https://github.com/the-pool/the-pool-api)                                    |
