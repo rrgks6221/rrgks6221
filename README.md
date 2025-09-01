@@ -9,7 +9,7 @@
 
 | Date              | Corporation | Role             | Team         | Industry   |
 | :---------------- | :---------- | :--------------- | :----------- | :--------- |
-| 2023.12 ~ ing     | Classting   | Backend Engineer | Service Core | EduTech    |
+| 2023.12 ~ 2025.07 | Classting   | Backend Engineer | Service Core | EduTech    |
 | 2022.05 ~ 2023.05 | Bejewel     | Backend Engineer | Backend      | E-Commerce |
 
 ## Personal Experience
